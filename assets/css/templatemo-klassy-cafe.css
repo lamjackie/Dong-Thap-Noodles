@@ -44,6 +44,10 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+.title-heading{
+  invert(100%);
+}
+
 .clearfix:after {
   content: ".";
   display: block;
