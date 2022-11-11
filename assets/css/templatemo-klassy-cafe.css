@@ -120,7 +120,7 @@ body {
 }
 
 ::selection {
-  background: #7da18f;
+  background-color: #7da18f;
   color: #fff;
 }
 
