@@ -44,6 +44,10 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+.title-heading{
+  filter: invert(100%);
+}
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -227,7 +231,7 @@ header
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #7da18f!important;
 }
 
 .header-area {
