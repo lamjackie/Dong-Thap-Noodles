@@ -324,7 +324,7 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #7da18f!important;
   opacity: 1;
 }
 
@@ -977,7 +977,7 @@ menu
   position: absolute;
   width: 70px;
   height: 70px;
-  background-color: #fb5849;
+  background-color: #4a7729;
   font-size: 20px;
   font-weight: 700;
   color: #fff;
