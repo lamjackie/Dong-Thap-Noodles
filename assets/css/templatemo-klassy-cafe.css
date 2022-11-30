@@ -1451,6 +1451,11 @@ offers
   margin-left: 15px;
 }
 
+#offers .tabs-content .image-list {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
 #offers .tabs-content .right-list {
   margin-left: 15px;
 }
@@ -1584,7 +1589,11 @@ responsive
     margin-right: 0px;
   }
   
+  #offers .tabs-content .center-list {
+    margin-right: 0px;
+    margin-left: 0px;
   }
+
   #offers .tabs-content .center-list {
     margin-right: 0px;
     margin-left: 0px;
